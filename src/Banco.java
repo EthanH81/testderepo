@@ -1,4 +1,5 @@
-public class BancoS
+public class Banco
+
 {
     private float saldo;
     private String titular;
